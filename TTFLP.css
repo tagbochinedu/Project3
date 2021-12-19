@@ -1,0 +1,49 @@
+body {
+background: linear-gradient(90deg, rgb(179, 7, 7), rgb(42, 66, 131)) ;
+font-family: cursive;
+max-width: 100%;
+height: auto;
+}
+
+h1 {
+text-align: center;
+color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+}
+
+
+form {
+    background: linear-gradient(60deg, rgb(42, 66, 131), rgb(179, 7, 7)) ;
+display: flex;
+flex-direction: column;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 2%;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-right: 2%;
+font-size: 20px;
+border-radius: 5px;
+color: whitesmoke;
+}
+
+input {
+    border-radius: 5px;
+    height: 35px;
+    
+    margin-bottom: 5px;
+}
+
+button {
+    border-radius: 5px;
+    margin-top: 15px; 
+    height: 30px; 
+}
+
+p {
+    text-align: center;
+    color: whitesmoke;
+}
